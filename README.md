@@ -96,11 +96,8 @@ Me chamo Lara Beatriz Costa Sabino, tenho 22 anos e natual de Eunápolis-BA, mas
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larabsab&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/larabsab/larabsab/output/snake.svg" alt="Snake animation" />
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=t2s5u410ox38gai0s4gdkrrst&width={width})
