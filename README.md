@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Lara Beatriz Costa Sabino, tenho 22 anos e natual de Eunápolis-BA, mas residindo em Sorocaba no estado de SP. Atualmente, estou cursando Engenharia de Computação na FACENS.
+Me chamo Lara Beatriz Costa Sabino, tenho 22 anos e natural de Eunápolis-BA, mas residindo em Sorocaba no estado de SP. Atualmente, estou cursando Engenharia de Computação na FACENS.
 
 <div style="display: inline_block"><br>
   <img align="center" 
