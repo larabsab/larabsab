@@ -68,6 +68,13 @@ Me chamo Lara Sabino, tenho 23 anos e sou natural de Eunápolis-BA, mas residind
 
 </div>
 
+## Estou aprendendo
+<div style="display: inline_block">
+  <img align = "center" alt="Lara-neo4j" title="neo4j" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg"/>
+  <img align = "center" alt="Lara-python" title="phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align = "center" alt="Lara-neo4j" title="neo4j" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
+
 ---
 
 
